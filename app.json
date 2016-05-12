@@ -1,5 +1,5 @@
 {
-  "name": "Python on Heroku example",
+  "name": "Python on Heroku examplei - Spring-16 - fixed",
   "description": "A barebones Python app, which can easily be deployed to Heroku.",
   "image": "heroku/python",
   "repository": "https://github.com/heroku/python-getting-started",
